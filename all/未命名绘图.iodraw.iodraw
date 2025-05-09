@@ -293,6 +293,11 @@
             <mxPoint x="400" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ECf9-h2rgWqf81eRcS9q-54" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ECf9-h2rgWqf81eRcS9q-53">
+          <mxGeometry x="1" y="-4" relative="1" as="geometry">
+            <mxPoint x="-2" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ECf9-h2rgWqf81eRcS9q-51" value="注册成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="471" y="840" width="98.75" height="40" as="geometry" />
         </mxCell>
