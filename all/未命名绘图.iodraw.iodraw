@@ -288,6 +288,11 @@
         <mxCell id="ECf9-h2rgWqf81eRcS9q-45" value="判断内容格式是否符合要求" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="720" width="140" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="ECf9-h2rgWqf81eRcS9q-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ECf9-h2rgWqf81eRcS9q-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ECf9-h2rgWqf81eRcS9q-51" value="注册成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="471" y="840" width="98.75" height="40" as="geometry" />
         </mxCell>
