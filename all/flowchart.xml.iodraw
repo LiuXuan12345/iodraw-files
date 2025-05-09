@@ -32,7 +32,7 @@
         <mxCell id="DXeNTNpklhcbEBc7zqiD-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DXeNTNpklhcbEBc7zqiD-16" target="DXeNTNpklhcbEBc7zqiD-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DXeNTNpklhcbEBc7zqiD-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="DXeNTNpklhcbEBc7zqiD-16" value="查看员工详细信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DXeNTNpklhcbEBc7zqiD-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DXeNTNpklhcbEBc7zqiD-18" target="DXeNTNpklhcbEBc7zqiD-20">
