@@ -266,7 +266,7 @@
         <mxCell id="ECf9-h2rgWqf81eRcS9q-43" value="申请注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470.62" y="640" width="98.75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ECf9-h2rgWqf81eRcS9q-45" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ECf9-h2rgWqf81eRcS9q-45" value="判断内容格式是否符合要求" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="720" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
