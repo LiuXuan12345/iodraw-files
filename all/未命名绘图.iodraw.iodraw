@@ -239,8 +239,8 @@
         <mxCell id="ECf9-h2rgWqf81eRcS9q-35" value="点击广告" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="395" y="360" width="40" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="ECf9-h2rgWqf81eRcS9q-38" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="480" width="90" height="50" as="geometry" />
+        <mxCell id="ECf9-h2rgWqf81eRcS9q-38" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="480" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
