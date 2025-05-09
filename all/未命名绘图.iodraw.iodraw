@@ -244,11 +244,6 @@
             <mxPoint x="520" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ECf9-h2rgWqf81eRcS9q-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ECf9-h2rgWqf81eRcS9q-38">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="510" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ECf9-h2rgWqf81eRcS9q-38" value="登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="480" width="80" height="40" as="geometry" />
         </mxCell>
@@ -295,7 +290,7 @@
         </mxCell>
         <mxCell id="ECf9-h2rgWqf81eRcS9q-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ECf9-h2rgWqf81eRcS9q-51">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="510" as="targetPoint" />
+            <mxPoint x="440" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ECf9-h2rgWqf81eRcS9q-54" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ECf9-h2rgWqf81eRcS9q-53">
