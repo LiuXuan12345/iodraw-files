@@ -4,13 +4,8 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="DXeNTNpklhcbEBc7zqiD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DXeNTNpklhcbEBc7zqiD-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="130" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DXeNTNpklhcbEBc7zqiD-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="DXeNTNpklhcbEBc7zqiD-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
