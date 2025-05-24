@@ -34,7 +34,7 @@
             <mxPoint x="308.75" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="347MI_N-nW650bG8yD2K-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;用户&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="347MI_N-nW650bG8yD2K-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;用户&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="348.75" y="10" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="347MI_N-nW650bG8yD2K-6" value="查看公告" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-rl;" parent="1" vertex="1">
@@ -50,7 +50,7 @@
           <mxGeometry x="414" y="100" width="30" height="90" as="geometry" />
         </mxCell>
         <mxCell id="347MI_N-nW650bG8yD2K-22" value="提交订单" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-rl;" parent="1" vertex="1">
-          <mxGeometry x="458.75" y="100" width="30" height="90" as="geometry" />
+          <mxGeometry x="455" y="100" width="30" height="90" as="geometry" />
         </mxCell>
         <mxCell id="347MI_N-nW650bG8yD2K-24" value="查看订单" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-rl;" parent="1" vertex="1">
           <mxGeometry x="500" y="100" width="30" height="90" as="geometry" />
