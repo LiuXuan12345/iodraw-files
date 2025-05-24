@@ -139,7 +139,7 @@
             <mxPoint x="30" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bCPc59Z-9Uw_OD8NrkK7-24" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;家政人员&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="bCPc59Z-9Uw_OD8NrkK7-24" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;家政人员&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="10" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bCPc59Z-9Uw_OD8NrkK7-30" value="发布服务" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-rl;" parent="1" vertex="1">
