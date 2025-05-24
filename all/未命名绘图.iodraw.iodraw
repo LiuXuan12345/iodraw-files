@@ -44,16 +44,16 @@
           <mxGeometry x="328.75" y="100" width="30" height="90" as="geometry" />
         </mxCell>
         <mxCell id="347MI_N-nW650bG8yD2K-19" value="修改个人资料" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-rl;" parent="1" vertex="1">
-          <mxGeometry x="375" y="100" width="30" height="90" as="geometry" />
+          <mxGeometry x="368.75" y="100" width="30" height="90" as="geometry" />
         </mxCell>
         <mxCell id="347MI_N-nW650bG8yD2K-20" value="修改密码" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-rl;" parent="1" vertex="1">
-          <mxGeometry x="170" y="100" width="30" height="90" as="geometry" />
+          <mxGeometry x="414" y="100" width="30" height="90" as="geometry" />
         </mxCell>
         <mxCell id="347MI_N-nW650bG8yD2K-22" value="提交订单" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-rl;" parent="1" vertex="1">
           <mxGeometry x="458.75" y="100" width="30" height="90" as="geometry" />
         </mxCell>
         <mxCell id="347MI_N-nW650bG8yD2K-24" value="查看订单" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-rl;" parent="1" vertex="1">
-          <mxGeometry x="220" y="100" width="30" height="90" as="geometry" />
+          <mxGeometry x="500" y="100" width="30" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bCPc59Z-9Uw_OD8NrkK7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bCPc59Z-9Uw_OD8NrkK7-1" edge="1">
           <mxGeometry relative="1" as="geometry">
