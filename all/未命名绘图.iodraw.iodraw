@@ -44,7 +44,7 @@
           <mxGeometry x="328.75" y="100" width="30" height="90" as="geometry" />
         </mxCell>
         <mxCell id="347MI_N-nW650bG8yD2K-19" value="修改个人资料" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-rl;" parent="1" vertex="1">
-          <mxGeometry x="368.75" y="100" width="30" height="90" as="geometry" />
+          <mxGeometry x="115" y="100" width="30" height="90" as="geometry" />
         </mxCell>
         <mxCell id="347MI_N-nW650bG8yD2K-20" value="修改密码" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-rl;" parent="1" vertex="1">
           <mxGeometry x="414" y="100" width="30" height="90" as="geometry" />
